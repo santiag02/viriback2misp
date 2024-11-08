@@ -8,3 +8,9 @@ The events will be distributed by month/year and malware family, like the exampl
 |![](https://github.com/santiag02/viriback2misp/blob/main/media/misp.png)|
 |:---:|
 |MISP Events|
+
+## How install
+
+```bash
+pip install viriback2misp
+```
